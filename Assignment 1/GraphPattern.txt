@@ -1,0 +1,38 @@
+
+
+-------------------
+First line has 52 white space.
+
+---------------
+This section.
+Starts with 2 vertical *s that are also a delimiter for each 2 sections of diagonal asterisks.
+5
+5
+4
+3
+2
+2
+2
+1
+1
+0
+1
+0
+0
+0
+0
+0
+0
+-----------------
+Vertical *s
+3
+2
+4
+3
+5
+11
+1
+
+----
+
+25 total vertical *s
