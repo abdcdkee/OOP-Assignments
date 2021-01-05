@@ -1,0 +1,30 @@
+Driver: Elton John
+Fuel: 34.7619
+Money: 174.32
+Full Mileage: 9
+Empty Mileage: 7
+Driver: John Cena
+Fuel: 34.5455
+Money: 288.35
+Full Mileage: 11
+Empty Mileage: 6
+Driver: Barrack Obama
+Fuel: 37.3333
+Money: 786.26
+Full Mileage: 10
+Empty Mileage: 9
+Driver: John Rambo
+Fuel: 28
+Money: 403.59
+Full Mileage: 6
+Empty Mileage: 5
+Driver: Hillary Clinton
+Fuel: 35.974
+Money: 1866.23
+Full Mileage: 11
+Empty Mileage: 7
+Driver: Donald Trump
+Fuel: 39.5455
+Money: 897.27
+Full Mileage: 12
+Empty Mileage: 11

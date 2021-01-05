@@ -1,0 +1,87 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{url}
+\usepackage{listings}
+\usepackage{color}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+	language=C++,
+	aboveskip=3mm,
+	belowskip=3mm,
+	showstringspaces=false,
+	columns=flexible,
+	basicstyle={\small\ttfamily},
+	numbers=none,
+	numberstyle=\tiny\color{gray},
+	keywordstyle=\color{blue},
+	commentstyle=\color{dkgreen},
+	stringstyle=\color{mauve},
+	breaklines=true,
+	breakatwhitespace=true,
+	tabsize=3
+}
+\begin{document}
+	
+	\title{CS-224 Object Oriented Programming and Design Methodologies }
+	\author{Assignment 03}
+	\date{September 24, 2018}
+	\maketitle
+	\section{Guidelines}
+	You need to submit this assignment on  {\color{red}5th of October at 630 pm } as the next assignment will be given on the same day. Some important guidelines about the assignment are as following:
+	
+	\begin{itemize}
+		\item You need to do all the assignments alone
+		\item You will submit your assignment to git-hub 
+		\item You need to follow the best programming practices 
+		\item Submit assignment on time; late submissions will not be accepted.
+		\item Some assignments will require you to submit multiple files. Always Zip and send them.
+		\item It is better to submit incomplete assignment than none at all.
+		\item It is better to submit the work that you have done yourself than what you have plagiarized.
+		\item It is strongly advised that you start working on the assignment the day you get it. Assignments WILL take time.
+		\item Every assignment you submit should be a single zipped file containing all the other files. Suppose your name is John Doe and your id is 0022 so the name of the submitted file should be JohnDoe0022.zip
+		\item DO NOT send your assignment to your instructor, if you do I will just mark your assignment as ZERO for not following clear instructions.
+		\item You can be called in for Viva for any assignment that you submit
+	\end{itemize}
+	
+	\section{Task}
+	For this assignment you will be creating a package delivery system. You need to think in terms of objects.	The first object is the delivery truck that can store 50 liters of petrol. The cost per liter of petrol is 2.73\$.	You will be using the sample file, \path{Drivers.txt} for this assignment. Your code should however take into account that if an entry is increased or reduced (5 lines per entry) it reads all the entries in the file (You are going to assume that there are no errors in the file). For example, if there is just one entry, it should give the following lines as output:\smallskip\\
+	
+	\noindent Elton John\\
+	34\\
+	218\\
+	9\\
+	7\\
+	
+	\noindent Based on this entry, the driver’s name is Elton John, his truck has 34 liters already, his total funds are
+	218\$. His truck covers 9 km per liter if empty and 7 km per liter when loaded.\\
+	
+	\noindent The trucks can carry 12 to 20 packages/boxes (which is the second object) with random dimensions. The length, width and height of every package can range from 5 to 30 inches. This means that you will need to declare a dynamic array of boxes for each truck and every box will have a different dimension.\smallskip\\
+	
+	\noindent Calculate the total cost it will take the loaded truck to travel 60 km, drop the cargo and return empty based on the fuel consumption when the tank was full. This means that the drivers need to fill the tank	first before making the journey. Based on the amount of money they have, calculate if everyone can do	the journey. This means that you will need to declare a dynamic array of Trucks as well.\smallskip\\
+	
+	\noindent When unloading the boxes, show the volume of all the boxes and then deallocate the array of boxes. Once the trucks return, deallocate the array of all trucks after calculating the cost for the trip, how much money is left, how many litres of petrol are left.\smallskip\\
+	
+	\noindent The truck needs to have a \textit{Load()} and an \textit{Unload()} Function. When the trucks have been generated, the \textit{Load()} function should be called that will generate the boxes and put them inside the truck (It should show the dimensions of all the boxes). Once the journey is over, it should call the \textit{Unload()} function and unload all the boxes (It should show the dimensions of all the boxes).
+	
+	\noindent Once the journey is complete a new file \path{Trip.txt} should be generated that will show the current state of all the Drivers that made the journey.\smallskip\\
+	
+	\noindent Some important points:
+	
+	\begin{itemize}
+		\item Sample code is there for your benefit. If you are going to use it, understand how it works.
+		\item In the sample code we are using structs. You need to change it appropriately to use classes. A general rule of thumb is that all attributes in a class are private.
+		\item Where necessary, declare your own functions inside classes. Make sure why you would keep a function as private or public.
+		\item You do not need to follow the code given exactly. You can make changes where you see fit provided that it makes sense.
+		\item You need to define separate \path{*.h} and \path{*.cpp} files for all the classes.
+	\end{itemize}
+
+	\begin{center}
+		-- The End --
+	\end{center}
+	\newpage
+	
+	
+\end{document}

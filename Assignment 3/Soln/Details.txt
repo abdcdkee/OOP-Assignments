@@ -1,0 +1,388 @@
+There are 6 Delivery Trucks.
+
+
+
+------------------------------------------------------------
+Delivery Truck Driver is: Elton John
+
+Delivery Truck Petrol is: 34
+Delivery Truck Driver's Funds are: 218
+Delivery Truck Coverage (Full Mileage): 9
+Delivery Truck Coverage (Empty Mileage): 7
+
+Cost for filling Petrol tank is: 43.68
+Driver's Remaining Funds are: 174.32
+Delivery Truck is able to go for its journey. 
+
+Total 19 Packages are being Loaded.
+
+LOADING PACKAGES............
+Package 1 has Volume: (12 x 27 x 22) inches.
+Package 2 has Volume: (15 x 6 x 6) inches.
+Package 3 has Volume: (6 x 13 x 13) inches.
+Package 4 has Volume: (19 x 25 x 21) inches.
+Package 5 has Volume: (16 x 16 x 15) inches.
+Package 6 has Volume: (16 x 10 x 18) inches.
+Package 7 has Volume: (16 x 8 x 23) inches.
+Package 8 has Volume: (23 x 19 x 8) inches.
+Package 9 has Volume: (30 x 11 x 5) inches.
+Package 10 has Volume: (28 x 30 x 22) inches.
+Package 11 has Volume: (5 x 6 x 20) inches.
+Package 12 has Volume: (19 x 13 x 9) inches.
+Package 13 has Volume: (17 x 14 x 13) inches.
+Package 14 has Volume: (13 x 22 x 11) inches.
+Package 15 has Volume: (19 x 12 x 19) inches.
+Package 16 has Volume: (7 x 24 x 9) inches.
+Package 17 has Volume: (20 x 25 x 25) inches.
+Package 18 has Volume: (26 x 27 x 29) inches.
+Package 19 has Volume: (21 x 30 x 8) inches.
+PACKAGES HAVE BEEN LOADED............
+
+------------------------------------------------------------
+Delivery Truck Driver is: John Cena
+
+Delivery Truck Petrol is: 45
+Delivery Truck Driver's Funds are: 302
+Delivery Truck Coverage (Full Mileage): 11
+Delivery Truck Coverage (Empty Mileage): 6
+
+Cost for filling Petrol tank is: 13.65
+Driver's Remaining Funds are: 288.35
+Delivery Truck is able to go for its journey. 
+
+Total 17 Packages are being Loaded.
+
+LOADING PACKAGES............
+Package 1 has Volume: (11 x 17 x 28) inches.
+Package 2 has Volume: (30 x 29 x 14) inches.
+Package 3 has Volume: (14 x 14 x 18) inches.
+Package 4 has Volume: (16 x 6 x 26) inches.
+Package 5 has Volume: (10 x 11 x 13) inches.
+Package 6 has Volume: (22 x 20 x 27) inches.
+Package 7 has Volume: (11 x 30 x 6) inches.
+Package 8 has Volume: (9 x 19 x 9) inches.
+Package 9 has Volume: (17 x 13 x 18) inches.
+Package 10 has Volume: (22 x 19 x 5) inches.
+Package 11 has Volume: (29 x 15 x 30) inches.
+Package 12 has Volume: (30 x 29 x 21) inches.
+Package 13 has Volume: (15 x 29 x 27) inches.
+Package 14 has Volume: (8 x 8 x 23) inches.
+Package 15 has Volume: (20 x 20 x 9) inches.
+Package 16 has Volume: (30 x 5 x 30) inches.
+Package 17 has Volume: (24 x 18 x 23) inches.
+PACKAGES HAVE BEEN LOADED............
+
+------------------------------------------------------------
+Delivery Truck Driver is: Barrack Obama
+
+Delivery Truck Petrol is: 12
+Delivery Truck Driver's Funds are: 890
+Delivery Truck Coverage (Full Mileage): 10
+Delivery Truck Coverage (Empty Mileage): 9
+
+Cost for filling Petrol tank is: 103.74
+Driver's Remaining Funds are: 786.26
+Delivery Truck is able to go for its journey. 
+
+Total 17 Packages are being Loaded.
+
+LOADING PACKAGES............
+Package 1 has Volume: (28 x 19 x 15) inches.
+Package 2 has Volume: (14 x 15 x 29) inches.
+Package 3 has Volume: (16 x 13 x 22) inches.
+Package 4 has Volume: (20 x 25 x 23) inches.
+Package 5 has Volume: (21 x 15 x 17) inches.
+Package 6 has Volume: (29 x 30 x 25) inches.
+Package 7 has Volume: (13 x 25 x 18) inches.
+Package 8 has Volume: (10 x 24 x 24) inches.
+Package 9 has Volume: (25 x 28 x 20) inches.
+Package 10 has Volume: (20 x 7 x 8) inches.
+Package 11 has Volume: (27 x 28 x 27) inches.
+Package 12 has Volume: (18 x 25 x 22) inches.
+Package 13 has Volume: (26 x 20 x 23) inches.
+Package 14 has Volume: (10 x 15 x 18) inches.
+Package 15 has Volume: (14 x 22 x 20) inches.
+Package 16 has Volume: (25 x 27 x 27) inches.
+Package 17 has Volume: (21 x 6 x 13) inches.
+PACKAGES HAVE BEEN LOADED............
+
+------------------------------------------------------------
+Delivery Truck Driver is: John Rambo
+
+Delivery Truck Petrol is: 33
+Delivery Truck Driver's Funds are: 450
+Delivery Truck Coverage (Full Mileage): 6
+Delivery Truck Coverage (Empty Mileage): 5
+
+Cost for filling Petrol tank is: 46.41
+Driver's Remaining Funds are: 403.59
+Delivery Truck is able to go for its journey. 
+
+Total 19 Packages are being Loaded.
+
+LOADING PACKAGES............
+Package 1 has Volume: (5 x 10 x 30) inches.
+Package 2 has Volume: (21 x 12 x 30) inches.
+Package 3 has Volume: (8 x 20 x 27) inches.
+Package 4 has Volume: (9 x 10 x 30) inches.
+Package 5 has Volume: (30 x 8 x 18) inches.
+Package 6 has Volume: (21 x 7 x 7) inches.
+Package 7 has Volume: (22 x 19 x 27) inches.
+Package 8 has Volume: (25 x 22 x 8) inches.
+Package 9 has Volume: (25 x 9 x 15) inches.
+Package 10 has Volume: (12 x 16 x 17) inches.
+Package 11 has Volume: (11 x 20 x 7) inches.
+Package 12 has Volume: (20 x 21 x 10) inches.
+Package 13 has Volume: (16 x 29 x 5) inches.
+Package 14 has Volume: (20 x 5 x 30) inches.
+Package 15 has Volume: (26 x 24 x 12) inches.
+Package 16 has Volume: (14 x 30 x 24) inches.
+Package 17 has Volume: (17 x 6 x 13) inches.
+Package 18 has Volume: (9 x 21 x 12) inches.
+Package 19 has Volume: (13 x 29 x 29) inches.
+PACKAGES HAVE BEEN LOADED............
+
+------------------------------------------------------------
+Delivery Truck Driver is: Hillary Clinton
+
+Delivery Truck Petrol is: 1
+Delivery Truck Driver's Funds are: 2000
+Delivery Truck Coverage (Full Mileage): 11
+Delivery Truck Coverage (Empty Mileage): 7
+
+Cost for filling Petrol tank is: 133.77
+Driver's Remaining Funds are: 1866.23
+Delivery Truck is able to go for its journey. 
+
+Total 14 Packages are being Loaded.
+
+LOADING PACKAGES............
+Package 1 has Volume: (14 x 7 x 16) inches.
+Package 2 has Volume: (10 x 12 x 30) inches.
+Package 3 has Volume: (17 x 20 x 23) inches.
+Package 4 has Volume: (5 x 18 x 5) inches.
+Package 5 has Volume: (13 x 25 x 19) inches.
+Package 6 has Volume: (20 x 19 x 6) inches.
+Package 7 has Volume: (10 x 20 x 20) inches.
+Package 8 has Volume: (24 x 17 x 15) inches.
+Package 9 has Volume: (22 x 26 x 11) inches.
+Package 10 has Volume: (30 x 21 x 5) inches.
+Package 11 has Volume: (9 x 24 x 23) inches.
+Package 12 has Volume: (10 x 15 x 27) inches.
+Package 13 has Volume: (10 x 21 x 8) inches.
+Package 14 has Volume: (26 x 16 x 18) inches.
+PACKAGES HAVE BEEN LOADED............
+
+------------------------------------------------------------
+Delivery Truck Driver is: Donald Trump
+
+Delivery Truck Petrol is: 49
+Delivery Truck Driver's Funds are: 900
+Delivery Truck Coverage (Full Mileage): 12
+Delivery Truck Coverage (Empty Mileage): 11
+
+Cost for filling Petrol tank is: 2.73
+Driver's Remaining Funds are: 897.27
+Delivery Truck is able to go for its journey. 
+
+Total 13 Packages are being Loaded.
+
+LOADING PACKAGES............
+Package 1 has Volume: (5 x 23 x 6) inches.
+Package 2 has Volume: (7 x 23 x 15) inches.
+Package 3 has Volume: (6 x 29 x 9) inches.
+Package 4 has Volume: (28 x 15 x 26) inches.
+Package 5 has Volume: (25 x 11 x 18) inches.
+Package 6 has Volume: (22 x 7 x 8) inches.
+Package 7 has Volume: (24 x 28 x 7) inches.
+Package 8 has Volume: (5 x 23 x 11) inches.
+Package 9 has Volume: (6 x 24 x 7) inches.
+Package 10 has Volume: (17 x 29 x 16) inches.
+Package 11 has Volume: (25 x 25 x 28) inches.
+Package 12 has Volume: (25 x 26 x 27) inches.
+Package 13 has Volume: (26 x 16 x 23) inches.
+PACKAGES HAVE BEEN LOADED............
+
+***************************************************************
+Delivery Truck Driver is: Elton John
+
+Delivery Truck has Reached the Destination.
+
+UNLOADING PACKAGES............
+Package 19 has Dimensions: (21 x 30 x 8) inches.
+Package 18 has Dimensions: (26 x 27 x 29) inches.
+Package 17 has Dimensions: (20 x 25 x 25) inches.
+Package 16 has Dimensions: (7 x 24 x 9) inches.
+Package 15 has Dimensions: (19 x 12 x 19) inches.
+Package 14 has Dimensions: (13 x 22 x 11) inches.
+Package 13 has Dimensions: (17 x 14 x 13) inches.
+Package 12 has Dimensions: (19 x 13 x 9) inches.
+Package 11 has Dimensions: (5 x 6 x 20) inches.
+Package 10 has Dimensions: (28 x 30 x 22) inches.
+Package 9 has Dimensions: (30 x 11 x 5) inches.
+Package 8 has Dimensions: (23 x 19 x 8) inches.
+Package 7 has Dimensions: (16 x 8 x 23) inches.
+Package 6 has Dimensions: (16 x 10 x 18) inches.
+Package 5 has Dimensions: (16 x 16 x 15) inches.
+Package 4 has Dimensions: (19 x 25 x 21) inches.
+Package 3 has Dimensions: (6 x 13 x 13) inches.
+Package 2 has Dimensions: (15 x 6 x 6) inches.
+Package 1 has Dimensions: (12 x 27 x 22) inches.
+PACKAGES HAVE BEEN UNLOADED............
+
+
+The petrol used during the journey is: 15.2381
+The cost for the journey was: 41.6.
+
+
+
+***************************************************************
+Delivery Truck Driver is: John Cena
+
+Delivery Truck has Reached the Destination.
+
+UNLOADING PACKAGES............
+Package 17 has Dimensions: (24 x 18 x 23) inches.
+Package 16 has Dimensions: (30 x 5 x 30) inches.
+Package 15 has Dimensions: (20 x 20 x 9) inches.
+Package 14 has Dimensions: (8 x 8 x 23) inches.
+Package 13 has Dimensions: (15 x 29 x 27) inches.
+Package 12 has Dimensions: (30 x 29 x 21) inches.
+Package 11 has Dimensions: (29 x 15 x 30) inches.
+Package 10 has Dimensions: (22 x 19 x 5) inches.
+Package 9 has Dimensions: (17 x 13 x 18) inches.
+Package 8 has Dimensions: (9 x 19 x 9) inches.
+Package 7 has Dimensions: (11 x 30 x 6) inches.
+Package 6 has Dimensions: (22 x 20 x 27) inches.
+Package 5 has Dimensions: (10 x 11 x 13) inches.
+Package 4 has Dimensions: (16 x 6 x 26) inches.
+Package 3 has Dimensions: (14 x 14 x 18) inches.
+Package 2 has Dimensions: (30 x 29 x 14) inches.
+Package 1 has Dimensions: (11 x 17 x 28) inches.
+PACKAGES HAVE BEEN UNLOADED............
+
+
+The petrol used during the journey is: 15.4545
+The cost for the journey was: 42.1909.
+
+
+
+***************************************************************
+Delivery Truck Driver is: Barrack Obama
+
+Delivery Truck has Reached the Destination.
+
+UNLOADING PACKAGES............
+Package 17 has Dimensions: (21 x 6 x 13) inches.
+Package 16 has Dimensions: (25 x 27 x 27) inches.
+Package 15 has Dimensions: (14 x 22 x 20) inches.
+Package 14 has Dimensions: (10 x 15 x 18) inches.
+Package 13 has Dimensions: (26 x 20 x 23) inches.
+Package 12 has Dimensions: (18 x 25 x 22) inches.
+Package 11 has Dimensions: (27 x 28 x 27) inches.
+Package 10 has Dimensions: (20 x 7 x 8) inches.
+Package 9 has Dimensions: (25 x 28 x 20) inches.
+Package 8 has Dimensions: (10 x 24 x 24) inches.
+Package 7 has Dimensions: (13 x 25 x 18) inches.
+Package 6 has Dimensions: (29 x 30 x 25) inches.
+Package 5 has Dimensions: (21 x 15 x 17) inches.
+Package 4 has Dimensions: (20 x 25 x 23) inches.
+Package 3 has Dimensions: (16 x 13 x 22) inches.
+Package 2 has Dimensions: (14 x 15 x 29) inches.
+Package 1 has Dimensions: (28 x 19 x 15) inches.
+PACKAGES HAVE BEEN UNLOADED............
+
+
+The petrol used during the journey is: 12.6667
+The cost for the journey was: 34.58.
+
+
+
+***************************************************************
+Delivery Truck Driver is: John Rambo
+
+Delivery Truck has Reached the Destination.
+
+UNLOADING PACKAGES............
+Package 19 has Dimensions: (13 x 29 x 29) inches.
+Package 18 has Dimensions: (9 x 21 x 12) inches.
+Package 17 has Dimensions: (17 x 6 x 13) inches.
+Package 16 has Dimensions: (14 x 30 x 24) inches.
+Package 15 has Dimensions: (26 x 24 x 12) inches.
+Package 14 has Dimensions: (20 x 5 x 30) inches.
+Package 13 has Dimensions: (16 x 29 x 5) inches.
+Package 12 has Dimensions: (20 x 21 x 10) inches.
+Package 11 has Dimensions: (11 x 20 x 7) inches.
+Package 10 has Dimensions: (12 x 16 x 17) inches.
+Package 9 has Dimensions: (25 x 9 x 15) inches.
+Package 8 has Dimensions: (25 x 22 x 8) inches.
+Package 7 has Dimensions: (22 x 19 x 27) inches.
+Package 6 has Dimensions: (21 x 7 x 7) inches.
+Package 5 has Dimensions: (30 x 8 x 18) inches.
+Package 4 has Dimensions: (9 x 10 x 30) inches.
+Package 3 has Dimensions: (8 x 20 x 27) inches.
+Package 2 has Dimensions: (21 x 12 x 30) inches.
+Package 1 has Dimensions: (5 x 10 x 30) inches.
+PACKAGES HAVE BEEN UNLOADED............
+
+
+The petrol used during the journey is: 22
+The cost for the journey was: 60.06.
+
+
+
+***************************************************************
+Delivery Truck Driver is: Hillary Clinton
+
+Delivery Truck has Reached the Destination.
+
+UNLOADING PACKAGES............
+Package 14 has Dimensions: (26 x 16 x 18) inches.
+Package 13 has Dimensions: (10 x 21 x 8) inches.
+Package 12 has Dimensions: (10 x 15 x 27) inches.
+Package 11 has Dimensions: (9 x 24 x 23) inches.
+Package 10 has Dimensions: (30 x 21 x 5) inches.
+Package 9 has Dimensions: (22 x 26 x 11) inches.
+Package 8 has Dimensions: (24 x 17 x 15) inches.
+Package 7 has Dimensions: (10 x 20 x 20) inches.
+Package 6 has Dimensions: (20 x 19 x 6) inches.
+Package 5 has Dimensions: (13 x 25 x 19) inches.
+Package 4 has Dimensions: (5 x 18 x 5) inches.
+Package 3 has Dimensions: (17 x 20 x 23) inches.
+Package 2 has Dimensions: (10 x 12 x 30) inches.
+Package 1 has Dimensions: (14 x 7 x 16) inches.
+PACKAGES HAVE BEEN UNLOADED............
+
+
+The petrol used during the journey is: 14.026
+The cost for the journey was: 38.2909.
+
+
+
+***************************************************************
+Delivery Truck Driver is: Donald Trump
+
+Delivery Truck has Reached the Destination.
+
+UNLOADING PACKAGES............
+Package 13 has Dimensions: (26 x 16 x 23) inches.
+Package 12 has Dimensions: (25 x 26 x 27) inches.
+Package 11 has Dimensions: (25 x 25 x 28) inches.
+Package 10 has Dimensions: (17 x 29 x 16) inches.
+Package 9 has Dimensions: (6 x 24 x 7) inches.
+Package 8 has Dimensions: (5 x 23 x 11) inches.
+Package 7 has Dimensions: (24 x 28 x 7) inches.
+Package 6 has Dimensions: (22 x 7 x 8) inches.
+Package 5 has Dimensions: (25 x 11 x 18) inches.
+Package 4 has Dimensions: (28 x 15 x 26) inches.
+Package 3 has Dimensions: (6 x 29 x 9) inches.
+Package 2 has Dimensions: (7 x 23 x 15) inches.
+Package 1 has Dimensions: (5 x 23 x 6) inches.
+PACKAGES HAVE BEEN UNLOADED............
+
+
+The petrol used during the journey is: 10.4545
+The cost for the journey was: 28.5409.
+
+
+
