@@ -1,0 +1,77 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{url}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{hyperref}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+	language=C++,
+	aboveskip=3mm,
+	belowskip=3mm,
+	showstringspaces=false,
+	columns=flexible,
+	basicstyle={\small\ttfamily},
+	numbers=none,
+	numberstyle=\tiny\color{gray},
+	keywordstyle=\color{blue},
+	commentstyle=\color{dkgreen},
+	stringstyle=\color{mauve},
+	breaklines=true,
+	breakatwhitespace=true,
+	tabsize=3
+}
+\begin{document}
+	
+	\title{CS-224 Object Oriented Programming and Design Methodologies }
+	\author{Assignment 04}
+	\date{October 5, 2018}
+	\maketitle
+	\section{Guidelines}
+	You need to submit this assignment on  {\color{red}15th of October at 630 pm } as the next assignment will be given on the same day. Some important guidelines about the assignment are as following:
+	
+	\begin{itemize}
+		\item You need to do all the assignments alone
+		\item You will submit your assignment to git-hub 
+		\item You need to follow the best programming practices 
+		\item Submit assignment on time; late submissions will not be accepted.
+		\item Some assignments will require you to submit multiple files. Always Zip and send them.
+		\item It is better to submit incomplete assignment than none at all.
+		\item It is better to submit the work that you have done yourself than what you have plagiarized.
+		\item It is strongly advised that you start working on the assignment the day you get it. Assignments WILL take time.
+		\item Every assignment you submit should be a single zipped file containing all the other files. Suppose your name is John Doe and your id is 0022 so the name of the submitted file should be JohnDoe0022.zip
+		\item DO NOT send your assignment to your instructor, if you do I will just mark your assignment as ZERO for not following clear instructions.
+		\item You can be called in for Viva for any assignment that you submit
+	\end{itemize}
+	
+	\section{Task}
+	For this assignment you will be creating a drawing program of your own. You are provided with a folder \path{Artistik} that contains the sample code. You will need to setup the project properties to use \path{SDL 2.0} to make this code work on your machines. How you can set up the project to use \path{SDL 2.0} can be learned by following the lazyfoo tutorials present at this \href{http://lazyfoo.net/tutorials/SDL/}{link}. Once everything is working, you will be able to draw a red rectangle by left clicking the mouse and dragging. The code is however incomplete as every time you draw a rectangle, the old rectangle is lost.:\smallskip\\
+	
+	\noindent In order to fix this issue, you will need to store every rectangle in a stack. As you keep on populating the stack, the number of rectangles will increase on screen. You are also given two structures for Point and Color as well. The tasks you need to accomplish are:\smallskip\\
+	
+		\begin{itemize}
+		\item You will need to declare a \textbf{Shape} base class
+		\item Two classes \textbf{Rect} and \textbf{Line} will inherit from the Shape class. You will need to study SDL's documentation to understand how a line is drawn.
+		\item You will create a \textbf{Stack} of your own
+		\item Each node of the stack will only be able to store a pointer of type \textbf{Shape}. What this means is that whenever you will create a child object (either Rect or Line) its address will be passed to this base class's pointer. As a result, the stack will be able to hold both Rect and Line objects.
+		\item Every time you will create a line or a rectangle, it will have a random color (use the \textbf{Color} object for this reason).
+		\item You will select what to draw by pressing 'r' for Rect and 'l' for line.
+		\item You will undo with right mouse button whatever you draw by popping the stack.
+		\item Whatever shape you pop, will be stored in a separate "undo" stack
+		\item You will redo with the middle mouse button which will pop the value from the "undo" stack and push it in the first stack.
+		\item if you undo and then draw some new shape, it will be added to the stack and subsequently purge the "undo" stack.
+		\item '-' and '+' keys will change the order of the last drawn object within the stack. If you press '-' the shape will go deeper in the stack. If you press '+', the shape will start moving to the opt of the stack.
+	\end{itemize}
+	
+	
+
+	\begin{center}
+		-- The End --
+	\end{center}
+	\newpage
+	
+	
+\end{document}

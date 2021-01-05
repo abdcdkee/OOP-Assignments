@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1540376574 source:c:\users\user\desktop\university docs\semester 3\oop\assignment 5\test\test\smartstring.cpp
+	<iostream>
+	"SmartString.h"
+
+1540375482 c:\users\user\desktop\university docs\semester 3\oop\assignment 5\test\test\smartstring.h
+
+1540366127 source:c:\users\user\desktop\university docs\semester 3\oop\assignment 5\test\test\main.cpp
+	<iostream>
+	"SmartString.h"
+
